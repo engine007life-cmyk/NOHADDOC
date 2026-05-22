@@ -1,0 +1,6 @@
+{
+  "name": "NohadDoc",
+  "description": "Plateforme de gestion et de conformité du Dossier Technique pour dispositifs médicaux (Règlement DM, ISO 13485).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
